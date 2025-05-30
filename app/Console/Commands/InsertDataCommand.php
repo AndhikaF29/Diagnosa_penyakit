@@ -20,6 +20,7 @@ class InsertDataCommand extends Command
      */
     protected $description = 'insert dataset to database';
 
+    
     /**
      * Create a new command instance.
      *
