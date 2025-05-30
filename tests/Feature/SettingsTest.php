@@ -34,3 +34,4 @@ class SettingsTest extends TestCase
         $response->assertStatus(302); 
     }
 }
+

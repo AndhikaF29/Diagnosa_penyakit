@@ -31,3 +31,4 @@ class RegistrationTest extends TestCase
         $response->assertRedirect(RouteServiceProvider::HOME);
     }
 }
+
