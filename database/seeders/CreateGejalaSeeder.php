@@ -104,3 +104,4 @@ class CreateGejalaSeeder extends Seeder
         Gejala::insert($data);
     }
 }
+

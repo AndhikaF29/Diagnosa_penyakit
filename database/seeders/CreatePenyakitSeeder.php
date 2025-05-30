@@ -56,3 +56,4 @@ class CreatePenyakitSeeder extends Seeder
         Penyakit::insert($data);
     }
 }
+
