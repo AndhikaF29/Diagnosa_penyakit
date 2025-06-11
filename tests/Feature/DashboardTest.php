@@ -30,3 +30,4 @@ class DashboardTest extends TestCase
         $response->assertStatus(200); 
     }
 }
+

@@ -11,6 +11,7 @@ use App\Http\Controllers\{
 	UserController
 };
 
+
 Route::redirect('/', '/login');
 
 Route::group([

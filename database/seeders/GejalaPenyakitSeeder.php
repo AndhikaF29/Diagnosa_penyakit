@@ -189,3 +189,4 @@ class GejalaPenyakitSeeder extends Seeder
         DB::table('gejala_penyakit')->insert($data);
     }
 }
+

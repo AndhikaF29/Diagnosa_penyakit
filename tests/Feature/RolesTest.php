@@ -63,3 +63,4 @@ class RolesTest extends TestCase
         $response->assertStatus(302);
     }
 }
+

@@ -73,3 +73,4 @@ class MemberTest extends TestCase
         $response->assertStatus(302); 
     }
 }
+

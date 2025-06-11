@@ -74,3 +74,4 @@ class CreateRuleSeeder extends Seeder
         }
     }
 }
+

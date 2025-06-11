@@ -11,7 +11,6 @@ Demo URL: https://sidap.braveteknologi.com
 **Client:** [ruangAdmin](https://github.com/indrijunanda/RuangAdmin), Bootstrap, Jquery, filePond
 
 **Server:** PHP 7.3.x, Laravel 8.x
-
   
 ## Dependencies
 
